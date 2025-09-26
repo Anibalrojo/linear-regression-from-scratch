@@ -1,4 +1,4 @@
-# Linear Regression From Scratch
+# Linear Regression from Scratch
 
 This project provides a detailed implementation of a simple linear regression model built from the ground up using Python and NumPy. The goal is to demonstrate the fundamental mechanics of linear regression by leveraging matrix algebra (the Normal Equation), without relying on high-level machine learning libraries like scikit-learn for the core modeling process.
 
@@ -36,7 +36,7 @@ linear-regression-from-scratch/
 - NumPy
 - Matplotlib
 - Scikit-learn
-- JupyterLab / Jupyter Notebook
+- JupyterLab/Jupyter Notebook
 
 ---
 
@@ -44,11 +44,11 @@ linear-regression-from-scratch/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<YOUR_USERNAME>/linear-regression-from-scratch.git
+    git clone https://github.com/Anibalrojo/linear-regression-from-scratch
     cd linear-regression-from-scratch
     ```
 
-2.  **Create a virtual environment (recommended):**
+2.  **Create a virtual environment:**
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
